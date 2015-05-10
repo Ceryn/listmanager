@@ -1,0 +1,8 @@
+listmanager : A curses based list manager for the terminal.
+
+Used to handle lists of any sort. Useful for todo lists or whatever. Well. Probably not very useful to most people.
+
+Much the same can be done easily enough in vim, except it lets you mark items as urgent and shows you when the item was last updated.
+
+STATUS:
+This project is only half-way completed. Still has many issues. More information will follow at some later date.
